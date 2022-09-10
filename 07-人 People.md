@@ -31,7 +31,7 @@
 > 
 > 私は学生ではありません
 
-> 晚上好
+> 晚上好 Good evening
 > 
 > <ruby>今<rt>こん</rt>晩<rt>ばん</rt></ruby>は
 
