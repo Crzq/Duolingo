@@ -5,6 +5,10 @@
 | 吃，喝，抽                                | <ruby>頂<rt>いただ</rt>く</ruby>、<ruby>戴<rt>いただ</rt>く</ruby> | 頂きます   | 頂いて   |
 | 感谢，谢谢                                | <ruby>有<rt>あり</rt>難<rt>がと</rt>う</ruby>                | 有難います | 有難って |
 
+| [名詞]迎接                                  |
+| ------------------------------------------- |
+| <ruby>出<rt>で</rt>迎<rt>むか</rt>え</ruby> |
+
 
 
 ### Saying Thank You
@@ -31,6 +35,14 @@ If you'd like to thank someone for something they did in the past, you change th
 
 
 ## <ruby>句<rt>く</rt></ruby>
+
+> 我去接你
+>
+> 出迎えに行きます
+>
+> 前来迎接
+>
+> 出迎えに来ます
 
 > 请
 >
