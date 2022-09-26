@@ -48,6 +48,10 @@ If you'd like to thank someone for something they did in the past, you change th
 >
 > どうぞ
 >
+> Here you are
+>
+> どうぞ
+>
 > Nice to meet you
 >
 > どうぞよろしく
@@ -72,7 +76,17 @@ If you'd like to thank someone for something they did in the past, you change th
 >
 > どうもありがとう
 >
-> 不客气
+> > どうも！　Thanks!
+> >
+> > ありがとう！　Thank you!
+> >
+> > どうもありがとう！　Thank you very much!
+> >
+> > In daily life, ありがとう is probably the most common of those three! But for strangers, teachers, or your boss, you can add ごさいます for some extra formality.
+> >
+> > > ありがとうございます！　Thank you!
+>
+> 不客气 You're welcome
 >
 > どういたしまして
 
@@ -99,3 +113,15 @@ If you'd like to thank someone for something they did in the past, you change th
 > I'm Ken
 >
 > けんです
+
+> 晚安 Good night
+>
+> お休みなさい
+>
+> Well then, good night
+>
+> じゃ、お休みなさい
+>
+> Well, good night
+>
+> では、お休みなさい
