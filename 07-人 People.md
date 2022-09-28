@@ -1,6 +1,6 @@
 ## <ruby><rb>単</rb><rt>たん</rt></ruby><ruby><rb>語</rb><rt>ご</rt></ruby>
 
-| 学生 student                                | 老师 teacher                                | （大学院校的）教授                            | 医生 doctor                               | 律师 lawyer                                            | 当然                                        |
+| 学生 student                                | 老师 teacher                                | （大学院校的）教授                            | 医生 doctor                               | 律师 lawyer                                            | 当然 of course                              |
 | ------------------------------------------- | ------------------------------------------- | --------------------------------------------- | ----------------------------------------- | ------------------------------------------------------ | ------------------------------------------- |
 | <ruby>学<rt>がく</rt>生<rt>せい</rt></ruby> | <ruby>先<rt>せん</rt>生<rt>せい</rt></ruby> | <ruby>教<rt>きょう</rt>授<rt>じゅ</rt></ruby> | <ruby>医<rt>い</rt>者<rt>しゃ</rt></ruby> | <ruby>弁<rt>べん</rt>護<rt>ご</rt>士<rt>し</rt></ruby> | <ruby>勿<rt>もち</rt>論<rt>ろん</rt></ruby> |
 
@@ -47,22 +47,24 @@
 > 
 > お<ruby><rb>名前</rb><rt>なまえ</rt></ruby>は<ruby><rb>何</rb><rt>なん</rt></ruby>と<ruby><rb>言</rb><rt>い</rt></ruby>いますか
 
-> 你好吗
-> 
+> 你好吗 Are (you) well?
+>
 > お<ruby><rb>元気</rb><rt>げんき</rt></ruby>ですか
-> 
+>
 > **当然**很好
-> 
+>
 > **もちろん**<ruby><rb>元気</rb><rt>げんき</rt></ruby>です
-> 
-> 不，不好
-> 
+>
+> 不，不好 No, (I) am not well
+>
 > いいえ、元気ではありません
-> 
+>
+> What's that お in the question, by the way? It's just something for adding a little extra politeness!
+>
 > 今天很好
-> 
+>
 > 今日は元気です　✔️
-> 
+>
 > 今日元気です　　❌
 
 > 不

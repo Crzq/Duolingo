@@ -90,7 +90,7 @@ If you'd like to thank someone for something they did in the past, you change th
 >
 > どういたしまして
 
-> 我开动了
+> 我开动了 Let's eat!
 >
 > <ruby>頂<rt>いただ</rt>き</ruby>ます
 >
