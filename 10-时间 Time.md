@@ -24,7 +24,7 @@
 >
 > <ruby><rb>今</rb><rt>いま</rt></ruby>は<ruby><rb>六</rb><rt>ろく</rt></ruby><ruby><rb>時</rb><rt>じ</rt></ruby>ではありません
 
-> **正好**三点
+> **正好**三点 It's exactly 3 o'clock
 >
 > 三時**ちょうど**です
 >
