@@ -47,13 +47,17 @@
 > 
 > お<ruby><rb>名前</rb><rt>なまえ</rt></ruby>は<ruby><rb>何</rb><rt>なん</rt></ruby>と<ruby><rb>言</rb><rt>い</rt></ruby>いますか
 
-> 你好吗 Are (you) well?
+> 你好吗 Are (you) well? / How are you?
 >
 > お<ruby><rb>元気</rb><rt>げんき</rt></ruby>ですか
 >
 > **当然**很好
 >
 > **もちろん**<ruby><rb>元気</rb><rt>げんき</rt></ruby>です
+>
+> Yes, of course
+>
+> ええ、勿論です
 >
 > 不，不好 No, (I) am not well
 >
