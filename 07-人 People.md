@@ -40,12 +40,16 @@
 > <ruby>今<rt>こん</rt>晩<rt>ばん</rt></ruby>は
 
 > 你的名字是
-> 
+>
 > お名前は
-> 
+>
 > 你叫什么名字
-> 
+>
 > お<ruby><rb>名前</rb><rt>なまえ</rt></ruby>は<ruby><rb>何</rb><rt>なん</rt></ruby>と<ruby><rb>言</rb><rt>い</rt></ruby>いますか
+>
+> My name is Shigeru Tanaka
+>
+> 僕の名前は田中茂です
 
 > 你好吗 Are (you) well? / How are you?
 >
@@ -82,6 +86,10 @@
 > She's cool
 >
 > かっこいいです
+>
+> He is cool
+>
+> 彼はかっこいい
 
 > Is Ken Tanaka cute
 >
