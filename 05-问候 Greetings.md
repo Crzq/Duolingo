@@ -86,6 +86,10 @@ If you'd like to thank someone for something they did in the past, you change th
 > >
 > > > ありがとうございます！　Thank you!
 >
+> 皆さん　ありがとございました　谢谢各位一直以来的关照
+>
+> ——《リーガル・ハイ２》(Legal High 2) 第1集 07:04
+>
 > 不客气 You're welcome
 >
 > どういたしまして
