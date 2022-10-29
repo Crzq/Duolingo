@@ -67,6 +67,14 @@ If you'd like to thank someone for something they did in the past, you change th
 > 对不起 (excuse me)，请问
 >
 > すみません
+>
+> すまない　对不住 / 对不起
+>
+> ——《リーガル・ハイ２》(Legal High 2) SP 1:01:57
+>
+> ——《半沢直樹１》第9集 27:02
+>
+> すいません是すみません的口语
 
 > 谢谢(您)
 >
