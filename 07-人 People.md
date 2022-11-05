@@ -8,6 +8,8 @@
 
 ——《リーガル・ハイ》(Legal High) 第5集 27:49
 
+在多邻国故事《艾迪医生》中，艾迪被称作「エディ先生」
+
 | 是，就是 |
 | -------- |
 | だ       |
@@ -20,56 +22,34 @@
 
 ## <ruby><rb>句</rb><rt>く</rt></ruby>
 
-> I am a man.
-> 私は男だ。
->
-> 这是一本好书
->
-> これはいい本だ
->
-> a good teacher
->
-> いい先生
-
-> 我**也是**学生
->
-> 私**も**学生です
-
-> 我不是学生
+> 私は男だ。　I am a man.
 > 
-> 私は学生ではありません
-
-> 晚上好 Good evening
+>これはいい本だ　这是一本好书
 > 
-> <ruby>今<rt>こん</rt>晩<rt>ばん</rt></ruby>は
+>いい先生　a good teacher
+> 
 
-> 你的名字是
+> 私**も**学生です　我**也是**学生
 >
-> お名前は
+> 私は学生ではありません　我不是学生
 >
-> 你叫什么名字
->
-> お<ruby><rb>名前</rb><rt>なまえ</rt></ruby>は<ruby><rb>何</rb><rt>なん</rt></ruby>と<ruby><rb>言</rb><rt>い</rt></ruby>いますか
->
-> My name is Shigeru Tanaka
->
-> 僕の名前は田中茂です
 
-> 你好吗 Are (you) well? / How are you?
+> <ruby>今<rt>こん</rt>晩<rt>ばん</rt></ruby>は　晚上好 Good evening
+
+> お名前は　你的名字是
 >
-> お<ruby><rb>元気</rb><rt>げんき</rt></ruby>ですか
+> お<ruby><rb>名前</rb><rt>なまえ</rt></ruby>は<ruby><rb>何</rb><rt>なん</rt></ruby>と<ruby><rb>言</rb><rt>い</rt></ruby>いますか　你叫什么名字
 >
-> **当然**很好
+> 僕の名前は田中茂です　My name is Shigeru Tanaka
 >
-> **もちろん**<ruby><rb>元気</rb><rt>げんき</rt></ruby>です
+
+> お<ruby><rb>元気</rb><rt>げんき</rt></ruby>ですか　你好吗 Are (you) well? / How are you?
 >
-> Yes, of course
+> **もちろん**<ruby><rb>元気</rb><rt>げんき</rt></ruby>です　**当然**很好
 >
-> ええ、勿論です
+> ええ、勿論です　Yes, of course
 >
-> 不，不好 No, (I) am not well
->
-> いいえ、元気ではありません
+> いいえ、元気ではありません　不，不好 No, (I) am not well
 >
 > What's that お in the question, by the way? It's just something for adding a little extra politeness!
 >
@@ -78,23 +58,18 @@
 > 今日は元気です　✔️
 >
 > 今日元気です　　❌
+>
+> *リリー！元気？　莉莉，你好吗？　——《Duolingo Story》*
 
-> 不
+> いいえ　不
 > 
-> いいえ
 
-> a cool teacher
+> かっこいい先生　a cool teacher
 >
-> かっこいい先生
+> かっこいいです　She's cool
 >
-> She's cool
+> 彼はかっこいい　He is cool
 >
-> かっこいいです
->
-> He is cool
->
-> 彼はかっこいい
 
-> Is Ken Tanaka cute
+> 田中けんさんは可愛いですか。　Is Ken Tanaka cute
 >
-> 田中けんさんは可愛いですか。

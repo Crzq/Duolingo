@@ -12,17 +12,11 @@
 
 
 
-
-
 ## <ruby><rb>句</rb><rt>く</rt></ruby>
 
-> 现在是几点 What time is it now?
+> <ruby><rb>今</rb><rt>いま</rt></ruby>は<ruby><rb>何</rb><rt>なん</rt></ruby><ruby><rb>時</rb><rt>じ</rt></ruby>ですか　现在是几点 What time is it now?
 >
-> <ruby><rb>今</rb><rt>いま</rt></ruby>は<ruby><rb>何</rb><rt>なん</rt></ruby><ruby><rb>時</rb><rt>じ</rt></ruby>ですか
->
-> 现在不是六点
->
-> <ruby><rb>今</rb><rt>いま</rt></ruby>は<ruby><rb>六</rb><rt>ろく</rt></ruby><ruby><rb>時</rb><rt>じ</rt></ruby>ではありません
+> <ruby><rb>今</rb><rt>いま</rt></ruby>は<ruby><rb>六</rb><rt>ろく</rt></ruby><ruby><rb>時</rb><rt>じ</rt></ruby>ではありません　现在不是六点
 
 > **正好**三点 It's exactly 3 o'clock
 >
