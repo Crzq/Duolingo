@@ -68,9 +68,13 @@ If you'd like to thank someone for something they did in the past, you change th
 >
 > ——《半沢直樹１》第9集 27:02
 >
+> 过去式为すまなかった
+>
 > すいません是すみません的口语，在《半沢直樹》中十分常见
 >
 > 表 对不起 还有 すまん ，是 すみません 的草率（低礼貌）说法
+>
+> *すまぬ　抱歉　——《真田丸》第22集 23:37*
 
 > <ruby>有<rt>あり</rt>難<rt>がと</rt>う</ruby>(ごさいます)　谢谢(您)
 >
@@ -97,13 +101,13 @@ If you'd like to thank someone for something they did in the past, you change th
 >
 > 頂きましょう　快吃
 >
-> ごちそうさまでした　我吃饱了 / 谢谢款待
+> <ruby>御馳走様<rt>ごちそうさま</rt></ruby>でした　我吃饱了 / 谢谢款待
 >
 > <ruby>十<rt>じゅっ</rt>分<rt>ぶん</rt></ruby>頂きました　吃得很饱了
 
 > <ruby>只<rt>ただ</rt>今<rt>いま</rt></ruby>　我回来了
 >
-> お<ruby>帰<rt>かえ</rt>り</ruby>　你回来啦
+> お<ruby>帰<rt>かえ</rt>り</ruby>(なさい)　你回来啦
 >
 
 > けんです　I'm Ken

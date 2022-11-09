@@ -1,8 +1,8 @@
 ## <ruby><rb>単</rb><rt>たん</rt></ruby><ruby><rb>語</rb><rt>ご</rt></ruby>
 
-| 学生 student                                | 老师 teacher                                                 | （大学院校的）教授                            | 医生 doctor                               | 律师 lawyer                                            | 当然 of course                              |
+| 学生 student                                | 老师 teacher                                                 | （大学院校的）教授                            | 医生 doctor                               | 律师 lawyer                                            | [副] 当然 of course                         |
 | ------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------- | ----------------------------------------- | ------------------------------------------------------ | ------------------------------------------- |
-| <ruby>学<rt>がく</rt>生<rt>せい</rt></ruby> | <a><ruby>先<rt>せん</rt>生<rt>せい</rt></ruby></a><sup>①</sup> | <ruby>教<rt>きょう</rt>授<rt>じゅ</rt></ruby> | <ruby>医<rt>い</rt>者<rt>しゃ</rt></ruby> | <ruby>弁<rt>べん</rt>護<rt>ご</rt>士<rt>し</rt></ruby> | <ruby>勿<rt>もち</rt>論<rt>ろん</rt></ruby> |
+| <ruby>学<rt>がく</rt>生<rt>せい</rt></ruby> | <a><ruby>先<rt>せん</rt>生<rt>せい</rt></ruby></a><sup>①</sup>、<ruby>教<rt>きょう</rt>師<rt>し</rt></ruby> | <ruby>教<rt>きょう</rt>授<rt>じゅ</rt></ruby> | <ruby>医<rt>い</rt>者<rt>しゃ</rt></ruby> | <ruby>弁<rt>べん</rt>護<rt>ご</rt>士<rt>し</rt></ruby> | <ruby>勿<rt>もち</rt>論<rt>ろん</rt></ruby> |
 
 ① 老师、律师、医生、议员（都可以这么称呼）。在《リーガル・ハイ》(Legal High) 中，便称律师为「先生」
 
@@ -53,6 +53,8 @@
 >
 > What's that お in the question, by the way? It's just something for adding a little extra politeness!
 >
+> 勿論。　当然。
+>
 > 今天很好
 >
 > 今日は元気です　✔️
@@ -70,6 +72,12 @@
 >
 > 彼はかっこいい　He is cool
 >
+> 老李是老师
+>
+> リさんは教師です　　　　✔️
+>
+> リさんはお教師さんです　❌
+>
+> はい、教師だ　是，是老师
 
 > 田中けんさんは可愛いですか。　Is Ken Tanaka cute
->
